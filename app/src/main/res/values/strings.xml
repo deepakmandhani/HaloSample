@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HaloApp</string>
+    <string name="hint">Type keyword for news</string>
+    <string name="search">Search</string>
+</resources>
